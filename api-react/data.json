@@ -1,0 +1,223 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "email": "bunting@ngesot.com",
+      "phone": "081234567"
+    },
+    {
+      "id": 2,
+      "username": "Joni",
+      "password": "jojon",
+      "email": "joniplayboy@semprot.com",
+      "phone": "081111111"
+    },
+    {
+      "id": 3,
+      "username": "Gala",
+      "password": "123456",
+      "email": "gala@mantep.com",
+      "phone": "0845678943"
+    },
+    {
+      "username": "ano",
+      "email": "ano@ano.com",
+      "phone": "081237196238",
+      "password": "qwerty",
+      "id": 4
+    },
+    {
+      "username": "gamma",
+      "email": "gamma@gamma.com",
+      "phone": "0812345678",
+      "password": "gamma",
+      "id": 5
+    },
+    {
+      "username": "alek",
+      "email": "alex@alek.com",
+      "phone": "081242345",
+      "password": "alek",
+      "id": 6
+    },
+    {
+      "username": "adhika",
+      "email": "adhikagala@purwa.com",
+      "phone": "0812345676",
+      "password": "gala",
+      "id": 7
+    },
+    {
+      "username": "coy",
+      "email": "coy@coy.com",
+      "phone": "08123123123",
+      "password": "coy",
+      "id": 13
+    },
+    {
+      "username": "fikar",
+      "email": "fikar@fikar.com",
+      "phone": "08123123123",
+      "password": "fikar",
+      "id": 14
+    },
+    {
+      "username": "kevin",
+      "email": "kevin@kevin.com",
+      "phone": "08888888",
+      "password": "kevin",
+      "id": 15
+    },
+    {
+      "username": "esmeralda",
+      "email": "esmeralda@esmeralda.com",
+      "phone": "078789789",
+      "password": "esmeralda",
+      "id": 16
+    },
+    {
+      "username": "Jati",
+      "email": "jati@jati.cmom",
+      "phone": "08108028",
+      "password": "123",
+      "id": 17
+    },
+    {
+      "username": "jati",
+      "email": "jati@jati.com",
+      "phone": "0812345",
+      "password": "jati",
+      "id": 18
+    }
+  ],
+  "popok": [
+    {
+      "nama": "Lombok",
+      "merk": "Nusa Tenggara",
+      "img": "http://static.asiawebdirect.com/m/bangkok/portals/bali-indonesia-com/homepage/top10-hotels/pagePropertiesImage/viceroy-bali.jpg",
+      "harga": "500000",
+      "description": "The best stay in Lombok",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nama": "Ubud",
+      "merk": "Bali",
+      "description": "The best stay in bali",
+      "harga": 7000000,
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/11/f2/7f/7f/main-pool-with-view.jpg"
+    },
+    {
+      "nama": "Bandung",
+      "merk": "Jawa Barat",
+      "img": "https://storage.googleapis.com/allindonesiatoursim/2018/02/a5d8189b-unique-things-to-do-in-bandung.jpg",
+      "harga": 2500000,
+      "description": "Best stay in Bandung",
+      "id": 4
+    },
+    {
+      "nama": "Jakarta",
+      "merk": "DKI Jakarta",
+      "harga": 3000000,
+      "img": "http://indonesiaexpat.biz/wp-content/uploads/2017/02/jakarta-735x400.jpg",
+      "description": "Best stay in Jakarta",
+      "id": 5
+    },
+    {
+      "nama": "Labuan Bajo",
+      "merk": "Nusa Tenggara",
+      "harga": 7000000,
+      "img": "https://pix10.agoda.net/hotelImages/4974118/0/81d49766acf5f46d788f6e2a6f699d55.jpg?s=1024x768",
+      "description": "Best trip in Labuan Bajo",
+      "id": 6
+    },
+    {
+      "nama": "Raja Ampat",
+      "merk": "Irian Jaya",
+      "harga": 10000000,
+      "img": "https://s-ec.bstatic.com/images/hotel/max1024x768/136/136084720.jpg",
+      "description": "Best trip in Raja Ampat",
+      "id": 7
+    },
+    {
+      "nama": "Goa Pindul",
+      "merk": "Yogyakarta",
+      "harga": 1000000,
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/08/1c/40/53/gua-pindul.jpg",
+      "description": "Trip to Jogja!",
+      "id": 8
+    },
+    {
+      "nama": "Yogyakarta",
+      "merk": "Yogyakarta",
+      "harga": "3500000",
+      "img": "http://static.asiawebdirect.com/m/bangkok/portals/bali-indonesia-com/homepage/top10/top10-hotels-yogyakarta/pagePropertiesImage/yogyakarta.jpg.jpg",
+      "description": "Trip to Jogja",
+      "id": 9
+    }
+  ],
+  "cart": [
+    {
+      "username": "fikri",
+      "id_produk": 3,
+      "nama_product": "Es Jeruk",
+      "img": "https://images.unsplash.com/photo-1543419417-6f584a98e66c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c890813f3834d573a6319d951fbebb5&auto=format&fit=crop&w=1050&q=80",
+      "harga_produk": 5000,
+      "kuantitas": "1",
+      "total": 5000,
+      "id_order": 1,
+      "id": 1
+    },
+    {
+      "username": "Joni",
+      "id_produk": 1,
+      "nama_product": "Lombok",
+      "img": "http://static.asiawebdirect.com/m/bangkok/portals/bali-indonesia-com/homepage/top10-hotels/pagePropertiesImage/viceroy-bali.jpg",
+      "harga_produk": 500000,
+      "kuantitas": "1",
+      "total": 500000,
+      "id_order": 1,
+      "id": 2
+    },
+    {
+      "username": "",
+      "id_produk": 2,
+      "nama_product": "Ubud",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/11/f2/7f/7f/main-pool-with-view.jpg",
+      "harga_produk": 7000000,
+      "kuantitas": "1",
+      "total": 7000000,
+      "id_order": 1,
+      "id": 3
+    }
+  ],
+  "history": {
+    "username": "Gala",
+    "order": [
+      {
+        "username": "Gala",
+        "id_produk": 2,
+        "nama_product": "Ubud",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/11/f2/7f/7f/main-pool-with-view.jpg",
+        "harga_produk": 7000000,
+        "kuantitas": "1",
+        "total": 7000000,
+        "id_order": 1,
+        "id": 4
+      },
+      {
+        "username": "Gala",
+        "id_produk": 2,
+        "nama_product": "Ubud",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/11/f2/7f/7f/main-pool-with-view.jpg",
+        "harga_produk": 7000000,
+        "kuantitas": "1",
+        "total": 7000000,
+        "id_order": 1,
+        "id": 5
+      }
+    ]
+  }
+}
